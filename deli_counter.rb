@@ -1,7 +1,7 @@
 # Write your code here.
 
 def line(array, name)
-if name.length !==0
+if name.length !== 0
 puts "Welcome, #{name}. You are number ((array[name])+1) in line."
 else
 puts "The line is currently empty."
